@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @viacheslav-shcherbakov
+- 👀 I’m interested in research & development
+- 🌱 I’m currently learning Java & Python
+- 💞️ I’m looking to collaborate on creating new voice assistant
+- 📫 How to reach me: fargofar@gmail.com / https://t.me/VAShcherbakov
